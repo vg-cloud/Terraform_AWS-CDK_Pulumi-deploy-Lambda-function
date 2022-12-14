@@ -12,7 +12,7 @@ Each project will deploy in AWS a Lambda function which will be launched by Even
 
 ## Pulumi vs CDK
 
-[Click to watch Pulumi and CDK projects deployment videos - side by side, resolution: HD, duration: 4m37s](./media_files/pul_cdk.mp4)
+[Click to watch Pulumi and CDK projects deployment videos - side by side, resolution: HD, duration: 4m37s](https://youtu.be/d9X0ly69UUc)
 
 ## Observations
 
