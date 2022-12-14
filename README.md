@@ -8,7 +8,7 @@ Each project will deploy in AWS a Lambda function which will be launched by Even
 
 ## Terraform vs CDK
 
-[Click to watch Terraform and CDK projects deployment videos - side by side, resolution: HD, duration: 4m37s](./media_files/tf_cdk.mp4)
+[Click to watch Terraform and CDK projects deployment videos - side by side, resolution: HD, duration: 4m37s](https://youtu.be/k4N9Z1_LI94)
 
 ## Pulumi vs CDK
 
