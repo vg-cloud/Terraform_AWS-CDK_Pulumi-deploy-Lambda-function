@@ -1,6 +1,6 @@
 # The same project is deployed by three different IaC tools: Terraform, AWS CDK and Pulumi
 
-Over the last years Terraform has become the most widely used IaC tool, thanks to its declarative nature and rapid learning progression. Being curious, I could not help testing two alternative options recently: AWS CDK and Pulumi. Those who have only ten minutes, can observe how a complete project can be deployed and then destroyed with all three tools from a to z in real time and so, after watching them, they will be able to have their own opinion about each tool. The videos have been speeded up four times to reduce watching time. Installation steps for each tool have been excluded from videos. 
+Over the last years Terraform has become the most widely used IaC tool, thanks to its declarative nature and rapid learning progression. Being curious, I could not help testing two alternative options recently: AWS CDK and Pulumi. Those who have only ten minutes, can observe how a complete project can be deployed and then destroyed with all three tools from a to z and so, after watching them, they will be able to have their own opinion about each tool. The videos have been speeded up four times to reduce watching time. Installation steps for each tool have been excluded from videos. 
 
 ## What will be done as part of the demo
 
