@@ -4,7 +4,7 @@ Over the last years Terraform has become the most widely used IaC tool, thanks t
 
 ## What will be done as part of the demo
 
-Each project will deploy in AWS a Lambda function which will be launched by EventBridge rule every minute. The Lambda function will construct a list of the files in a specific S3 bucket and will print a message containing the list, which will be visible in the CloudWatch log. We will query using AWS CLI the respective log group to validate that the function works as expected. At the end of each demo, all the resources will be destroyed.
+Each project will deploy in AWS a Lambda function which will be launched by EventBridge rule every minute. The Lambda function will construct a list of the files in a specific S3 bucket and will print a message containing the list, which will be visible in the CloudWatch log. We will query the respective log group using AWS CLI to validate that the function works as expected. At the end of each demo, all the resources will be destroyed.
 
 ## Terraform vs CDK
 
